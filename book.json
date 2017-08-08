@@ -1,0 +1,12 @@
+{
+    "title": "Делайте ПРАВИЛЬНО!",
+    "author": "Дмитрий Гусев",
+    "plugins": [
+        "expandable-chapters",
+        "codetabs",
+        "richquotes",
+        "back-to-top-button"
+    ]
+    
+    }
+}
