@@ -6,8 +6,13 @@
         "codetabs",
         "richquotes",
         "back-to-top-button",
-        "etoc-plus"
-    ]
-    
+        "etoc-plus",
+        "image-captions"
+    ],
+    "pluginsConfig": {
+      "image-captions": {
+          "caption": "Рис _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+      }
+  }
     
 }
