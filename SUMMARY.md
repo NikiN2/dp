@@ -1,12 +1,9 @@
 # Your Book Name
 
 
-* [Chapter 1](chapter1.md)
-* [Chapter 2](chapter2.md)
-* [Chapter 3](chapter3.md)
-* [Pictures](pictures.md)
-* [Введение](chapter1.md)
-* [Введение 2](chapter2.md)
+* [Предисловие 1](chapter1.md)
+* [Предисловие 2](chapter2.md)
+* [Вариант 1](chapter3.md)
 * [1. Конструктивные причины загрязнения и разрушения дорог ](book/ch1/intro.md)
     * [Газон выше уровня бордюра и тротуара (дороги). Ливневой канализации и дренажа нет](book/ch1/1.md)
     * [Газон ниже уровня бордюра. Ливневой канализации нет](book/ch1/2.md)
