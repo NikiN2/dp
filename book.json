@@ -2,7 +2,7 @@
     "title": "Делайте ПРАВИЛЬНО!",
     "author": "Дмитрий Гусев",
     "plugins": [
-             "image-captions","parts-autoindex","back-to-top-button","etoc-plus","expandable-chapters"
+             "image-captions","back-to-top-button","etoc-plus","expandable-chapters"
     ],
     "pluginsConfig": {
       "image-captions": {
@@ -11,12 +11,7 @@
           "align": "left"
 
       },
-     "parts-autoindex": {
-            "level": 2,
-            "trim": 1,
-            "offset": -1
-        },
-      "etoc-plus": {
+       "etoc-plus": {
       "mindepth": 2,
       "maxdepth": 4,
       "notoc": false,
