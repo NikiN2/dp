@@ -19,5 +19,7 @@
       "translit": false
     },
        "expandable-chapters":{}
-  }
+
+  },
+  "ignores": [ "node_modules"]
 }
